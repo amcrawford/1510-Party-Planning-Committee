@@ -1,6 +1,6 @@
 # 1510-Party-Planning-Committee
 
-[<img src="http://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0CAcQjRxqFQoTCOTKnYS-jcgCFYcM2wodFWcLfQ&url=http%3A%2F%2Fvegantriangle.blogspot.com%2F2011%2F08%2Fvegan-party-planning-committee.html&psig=AFQjCNHlhaaJLlI-AnzIaGjwUYz0Iozr4w&ust=1443108913744401">](http://google.com/)
+![alt text](http://profile.ak.fbcdn.net/hprofile-ak-snc4/50335_2220778357_5139577_n.jpg)
 
 
 Session at Turing: Talk to new kids about the "Turing Experience"
