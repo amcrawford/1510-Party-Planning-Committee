@@ -7,12 +7,12 @@ Session at Turing: Talk to new kids about the "Turing Experience"
 
   To Dos:
 
-    1. Set agenda: *talking points, speakers*
+    - Set agenda: *talking points, speakers*
 
 Happy Hour: Take everyone for dranks!
 
   To Dos:
 
-    1. Pick a place: *I think we were considering Wynkoop Beer Co.?*
-    2. Call and reserve: *make sure we can get food, pitchers, room, etc*
-    3. Recruit other modules/ alum to come help?
+    - Pick a place: *I think we were considering Wynkoop Beer Co.?*
+    - Call and reserve: *make sure we can get food, pitchers, room, etc*
+    - Recruit other modules/ alum to come help?
