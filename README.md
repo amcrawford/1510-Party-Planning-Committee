@@ -3,9 +3,7 @@
 ![alt text](http://profile.ak.fbcdn.net/hprofile-ak-snc4/50335_2220778357_5139577_n.jpg)
 
 
-Session at Turing: Talk to new kids about the "Turing Experience"
-
-  To Dos: 
+Session at Turing: Talk to new kids about the "Turing Experience" /n To Dos: 
   1. Set agenda:
   *talking points* 
   *speakers(us)*
