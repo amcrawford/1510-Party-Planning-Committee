@@ -6,7 +6,9 @@
 Session at Turing: Talk to new kids about the "Turing Experience"
 
   To Dos: 
-  1. Set agenda: *talking points, speakers*
+  1. Set agenda:
+  *talking points* 
+  *speakers(us)*
 
 Happy Hour: Take everyone for dranks!
 
