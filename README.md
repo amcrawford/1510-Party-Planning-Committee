@@ -2,7 +2,7 @@
 
 ![alt text](http://profile.ak.fbcdn.net/hprofile-ak-snc4/50335_2220778357_5139577_n.jpg)
 
-Session at Turing: Talk to new kids about the "Turing Experience"
+## Session at Turing: Talk to new kids about the "Turing Experience"
   
   When: 2 - 4 pm
   
@@ -14,7 +14,7 @@ To Dos:
     - No comp. setup this time
     - Maybe add in tour?
 
-Happy Hour: Take everyone for dranks!
+## Happy Hour: Take everyone for dranks!
  
   When: 4 - 6 pm
   
